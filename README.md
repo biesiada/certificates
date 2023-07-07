@@ -2,7 +2,7 @@
 
 <img src="https://github.com/biesiada/certificates/raw/0b56f899eb9af85b17b2fcafbcf281515e2328be/linkedin%20learning.jpg" alt="LinkedIn Learning Certificate" width="300">
 
-This is a repository of hundreds of certificates I have completed over the years in the following areas below. 
+This is a repository of hundreds of certificates I have completed over the years in the areas below. 
 
 Python
 Java
