@@ -4,19 +4,6 @@
 
 This is a repository of hundreds of certificates I have completed over the years in the areas below. The PDF certificates are included as a reference. 
 
-Python
-Java
-JavaScript
-C++
-C#
-Ruby
-Swift
-Go (Golang)
-PHP
-R
-
-
-
 ### Programming Languages
 
 1. [Python](https://www.linkedin.com/learning/path/learn-python): [Certificate](https://www.example.com/certificates/python)
