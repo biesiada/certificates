@@ -2,8 +2,7 @@
 
 ![LinkedIn Learning Certificate](https://github.com/biesiada/certificates/raw/main/linkedinlearning.jpg)
 
-
-
+(https://github.com/biesiada/certificates/blob/0b56f899eb9af85b17b2fcafbcf281515e2328be/linkedin%20learning.jpg)
 
 ### Programming Languages
 
