@@ -2,7 +2,7 @@
 
 ![LinkedIn Learning Certificate](https://github.com/biesiada/certificates/raw/0b56f899eb9af85b17b2fcafbcf281515e2328be/linkedin%20learning.jpg)
 
-<img src="https://git.io/JWZ13" alt="LinkedIn Learning Certificate" width="300">
+<img src="https://github.com/biesiada/certificates/raw/0b56f899eb9af85b17b2fcafbcf281515e2328be/linkedin%20learning.jpg" alt="LinkedIn Learning Certificate" width="300">
 
 
 ### Programming Languages
