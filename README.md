@@ -1,6 +1,6 @@
 ## LinkedIn Learning Certificates
 
-![Image Description](https://github.com/biesiada/certificates/linkedin learning.jpg)
+[https://github.com/biesiada/certificates/linkedin learning.jpg](https://github.com/biesiada/certificates/blob/main/linkedin%20learning.jpg)
 
 
 
