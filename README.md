@@ -1,42 +1,30 @@
-### LinkedIn Learning certificates in top 10 programming languages, data science, and database
+## LinkedIn Learning Certificates
 
-* **Python Programming**
-    * Learning Python with Joe Marini
-    * [![LinkedIn Learning image](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/LinkedIn_Learning_logo.svg/1200px-LinkedIn_Learning_logo.svg.png)](https://www.linkedin.com/learning/learning-python-with-joe-marini) Python for Data Science Essential Training
-    * Python Data Science Toolbox
-* **Java Programming**
-    * [![LinkedIn Learning image](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png)](https://www.linkedin.com/learning/java-programming-masterclass) Java Programming Masterclass
-    * Java for Data Science
-    * Java Persistence with Hibernate
-* **C++ Programming**
-    * [![LinkedIn Learning image](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/C%2B%2B_logo.svg/1200px-C%2B%2B_logo.svg.png)](https://www.linkedin.com/learning/c-masterclass) C++ Masterclass
-    * C++ for Data Science
-    * C++ Game Development
-* **JavaScript Programming**
-    * [![LinkedIn Learning image](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/JavaScript_logo_2019.svg/1200px-JavaScript_logo_2019.svg.png)](https://www.linkedin.com/learning/javascript-masterclass) JavaScript Masterclass
-    * JavaScript for Data Science
-    * JavaScript Game Development
-* **R Programming**
-    * [![LinkedIn Learning image](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/R_logo.svg/1200px-R_logo.svg.png)](https://www.linkedin.com/learning/r-programming-masterclass) R Programming Masterclass
-    * R for Data Science
-    * R for Data Visualization
-* **SQL Programming**
-    * [![LinkedIn Learning image](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/SQL_logo.svg/1200px-SQL_logo.svg.png)](https://www.linkedin.com/learning/sql-essential-training) SQL Essential Training
-    * SQL for Data Analysis
-    * SQL Server 2019 Developer
-* **HTML Programming**
-    * [![LinkedIn Learning image](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/HTML5_logo.svg/1200px-HTML5_logo.svg.png)](https://www.linkedin.com/learning/html5-and-css3-masterclass) HTML5 and CSS3 Masterclass
-    * HTML and CSS for Data Visualization
-    * HTML and CSS for Web Development
-* **CSS Programming**
-    * [![LinkedIn Learning image](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/CSS3_logo.svg/1200px-CSS3_logo.svg.png)](https://www.linkedin.com/learning/css-masterclass) CSS Masterclass
-    * CSS for Data Visualization
-    * CSS for Web Development
-* **Swift Programming**
-    * [![LinkedIn Learning image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Swift_logo.svg/1200px-Swift_logo.svg.png)](https://www.linkedin.com/learning/swift-programming-masterclass) Swift Programming Masterclass
-    * Swift for Data Science
-    * Swift for iOS Development
+### Programming Languages
 
-I am certified in these programming languages and databases, which gives me the skills and knowledge to work in a variety of industries. I am confident that I can use these skills to contribute to your team and help you achieve your goals.
+1. [Python](https://www.linkedin.com/learning/path/learn-python): [Certificate](https://www.example.com/certificates/python)
+2. [Java](https://www.linkedin.com/learning/path/learn-java): [Certificate](https://www.example.com/certificates/java)
+3. [JavaScript](https://www.linkedin.com/learning/path/learn-javascript): [Certificate](https://www.example.com/certificates/javascript)
+4. [C++](https://www.linkedin.com/learning/path/learn-c-plus-plus): [Certificate](https://www.example.com/certificates/cpp)
+5. [C#](https://www.linkedin.com/learning/path/learn-c-sharp): [Certificate](https://www.example.com/certificates/csharp)
+6. [Ruby](https://www.linkedin.com/learning/path/learn-ruby): [Certificate](https://www.example.com/certificates/ruby)
+7. [Swift](https://www.linkedin.com/learning/path/learn-swift): [Certificate](https://www.example.com/certificates/swift)
+8. [Go](https://www.linkedin.com/learning/path/learn-go): [Certificate](https://www.example.com/certificates/go)
+9. [PHP](https://www.linkedin.com/learning/path/learn-php): [Certificate](https://www.example.com/certificates/php)
+10. [R](https://www.linkedin.com/learning/path/learn-r): [Certificate](https://www.example.com/certificates/r)
 
-* **LinkedIn Learning image:** This is an image of the LinkedIn Learning logo. You can replace this image with your own LinkedIn Learning certificate image.
+### Data Science
+
+1. [Data Science Fundamentals](https://www.linkedin.com/learning/path/data-science-foundations): [Certificate](https://www.example.com/certificates/data-science-fundamentals)
+2. [Machine Learning](https://www.linkedin.com/learning/path/machine-learning): [Certificate](https://www.example.com/certificates/machine-learning)
+3. [Data Visualization](https://www.linkedin.com/learning/path/data-visualization): [Certificate](https://www.example.com/certificates/data-visualization)
+4. [Statistics for Data Science](https://www.linkedin.com/learning/path/statistics-for-data-science): [Certificate](https://www.example.com/certificates/statistics-data-science)
+5. [Big Data Analytics](https://www.linkedin.com/learning/path/big-data-analytics): [Certificate](https://www.example.com/certificates/big-data-analytics)
+
+### Database
+
+1. [SQL Fundamentals](https://www.linkedin.com/learning/path/sql-essential-training): [Certificate](https://www.example.com/certificates/sql-fundamentals)
+2. [MongoDB](https://www.linkedin.com/learning/path/mongodb-essential-training): [Certificate](https://www.example.com/certificates/mongodb)
+3. [MySQL](https://www.linkedin.com/learning/path/learning-mysql-development): [Certificate](https://www.example.com/certificates/mysql)
+4. [PostgreSQL](https://www.linkedin.com/learning/path/learning-postgresql): [Certificate](https://www.example.com/certificates/postgresql)
+5. [Oracle Database](https://www.linkedin.com/learning/path/learning-oracle-database): [Certificate](https://www.example.com/certificates/oracle-database)
