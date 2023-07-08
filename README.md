@@ -6,7 +6,6 @@ This repository houses a vast collection of certificates that I have earned over
 
 ### Programming Languages
 
-Number	Technology
 1.	Python
 2.	Java
 3.	JavaScript
