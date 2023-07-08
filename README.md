@@ -6,16 +6,17 @@ This repository houses a vast collection of certificates that I have earned over
 
 ### Programming Languages
 
-1. [Python](https://www.linkedin.com/learning/path/learn-python): [Certificate](https://www.example.com/certificates/python)
-2. [Java](https://www.linkedin.com/learning/path/learn-java): [Certificate](https://www.example.com/certificates/java)
-3. [JavaScript](https://www.linkedin.com/learning/path/learn-javascript): [Certificate](https://www.example.com/certificates/javascript)
-4. [C++](https://www.linkedin.com/learning/path/learn-c-plus-plus): [Certificate](https://www.example.com/certificates/cpp)
-5. [C#](https://www.linkedin.com/learning/path/learn-c-sharp): [Certificate](https://www.example.com/certificates/csharp)
-6. [Ruby](https://www.linkedin.com/learning/path/learn-ruby): [Certificate](https://www.example.com/certificates/ruby)
-7. [Swift](https://www.linkedin.com/learning/path/learn-swift): [Certificate](https://www.example.com/certificates/swift)
-8. [Go](https://www.linkedin.com/learning/path/learn-go): [Certificate](https://www.example.com/certificates/go)
-9. [PHP](https://www.linkedin.com/learning/path/learn-php): [Certificate](https://www.example.com/certificates/php)
-10. [R](https://www.linkedin.com/learning/path/learn-r): [Certificate](https://www.example.com/certificates/r)
+Number	Technology
+1.	Python
+2.	Java
+3.	JavaScript
+4.	C++
+5.	C#
+6.	Ruby
+7.	Swift
+8.	Go
+9.	PHP
+10.	R
 
 ### Data Science
 
