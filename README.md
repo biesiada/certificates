@@ -2,7 +2,7 @@
 
 <img src="https://github.com/biesiada/certificates/raw/0b56f899eb9af85b17b2fcafbcf281515e2328be/linkedin%20learning.jpg" alt="LinkedIn Learning Certificate" width="300">
 
-This repository houses a vast collection of certificates that I have earned over the years, encompassing a wide range of areas. The accompanying PDF certificates are provided as a reference for verification.
+This repository houses a vast collection of certificates that I have earned over the years that covers a wide range of areas. The accompanying PDF certificates are provided as a reference for verification.
 
 ### Programming Languages
 
