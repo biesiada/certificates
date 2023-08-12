@@ -4,4 +4,4 @@ Feel free to explore the certificates from various educational institutions by c
 
 ### Stay Tuned!
 
-Thank you for visiting! Be sure to stay tuned for more exciting updates and content in the future.
+Thank you for visiting. Be sure to stay tuned for more exciting updates and content in the future.
